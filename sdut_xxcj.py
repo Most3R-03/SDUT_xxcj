@@ -30,8 +30,8 @@ url_reporlist="http://mcp.sdut.edu.cn:8080/mobileapi_ydxy/api/collectMessage/rep
 url_reportdatails="http://mcp.sdut.edu.cn:8080/mobileapi_ydxy/api/collectMessage/reportDetails"
 url_submitmessage="http://mcp.sdut.edu.cn:8080/mobileapi_ydxy/api/collectMessage/submitMessage"
 url_recall="http://mcp.sdut.edu.cn:8080/mobileapi_ydxy/api/collectMessage/recall"
-#unique_code="69b92c6d-0099-4f5d-93ad-2ada162f89c5" #打开设备生成的唯一码
-#access_token="+1RGSkothKcwT5F+h9rrpEDz3rdf95Y6lFHP+54xO+jyam4ewEY0HrmxNJZKG5W9H1izE32GBt1EwlOiBFtTnP/qd3LQB1qJkhG1x40RzsAAP1Ozh5mA8kLAPP2a4tqVisyMlUCm3bTajNTvT2ZJ4A=="  #会话session
+#unique_code="*********d-93ad-2ada162f89c5" #打开设备生成的唯一码
+#access_token="*********5F+h9rrpEDz3rdf95Y6lFHP+54xO+jyam4ewEY0HrmxNJZKG5*********zE32GBt1EwlOiBFtTnP/qd3LQB1qJkhG1x40RzsAAP1Ozh5mA8kLAPP2a4tq*********ajNTvT2ZJ4A=="  #会话session
 X_Requested_With="com.lysoft.android.lyyd.report.mobile.sdlg"      #客户端标识
 url_location="http://mcp.sdut.edu.cn:8080/h5_separation/info_collect/index.html#/writeTask?************************************"
 u_a="Mozilla/5.0 (Linux; Android 5.1.1; SM-G977N Build/LMY48Z; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile Safari/537.36"  #客户端
