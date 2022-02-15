@@ -22,7 +22,7 @@ url_location="http://mcp.sdut.edu.cn:8080/h5_separation/info_collect/index.html#
 from_addr = 'your@qq.com'  # qq邮箱登录地址  
 password = 'shouquanma'  # qq邮箱授权码,可以去qq邮箱官网申请此授权码。  
 to_addr = 'your@qq.com'  # 需要发送的地址  
-smtp_server = 'smtp.qq.com'  # 默认协议
+smtp_server = 'smtp.qq.com'  # 默认协议  
 global userInfoAeskey  # 该变量为JS文件中的AES密钥，暂时没有变，为base64解码之后的(VmxNbUkzTkRBdE5UWmpNaQ==)
 
 接下来就是python的常规操作了：  
